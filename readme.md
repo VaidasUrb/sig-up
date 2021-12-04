@@ -11,13 +11,15 @@ This project is for **educational** porpuses only. Pull request are welcome, but
 
 Site published at: https://vaidasurb.github.io/sig-up/
 
-Design: [Sign](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
+Design: [Sign](https://cdn.discordapp.com/attachments/850245533838868480/850246368214908970/day1dr.png)
 
 ## Project features
 
-- Github pages
-- CSS
-- Image
+- Github pages (multi-page)
+- HTML form
+- Bacground Image
+- CSS position absoliute
+- CSS blure efect
 
 ## Authors
 
