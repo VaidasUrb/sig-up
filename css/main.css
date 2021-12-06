@@ -26,6 +26,25 @@ body {
   margin-top: 20px;
   background-color: rgb(75, 29, 226);
 }
+
+.main-title {
+  color: #fff;
+}
+
+.bottom-links {
+  display: inline-block;
+  width: 100%;
+}
+
+.bottom-links > link {
+  background-color: antiquewhite;
+  display: inline-block;
+  width: 100p%;
+}
+.bottom-links > .link {
+  color: #fff;
+  font-size: 14px;
+}
 .right-column {
   display: inline-block;
   padding: 60px;
