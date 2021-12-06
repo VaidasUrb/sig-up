@@ -37,18 +37,24 @@ body {
 }
 
 .bottom-links > link {
-  background-color: antiquewhite;
+  background-color: #fff;
   display: inline-block;
-  width: 100p%;
+  width: 100%;
 }
-.bottom-links > .link {
+.bottom-links > .symbol {
   color: #fff;
-  font-size: 14px;
 }
 .right-column {
   display: inline-block;
   padding: 60px;
   width: 60%;
   float: left;
+  margin-top: 20px;
   background-color: #fff;
+}
+
+.close {
+  color: black;
+  display: inline-block;
+  width: 100%;
 }
