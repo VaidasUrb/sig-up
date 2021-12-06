@@ -8,24 +8,25 @@ body * {
 }
 
 body {
-  background-color: violet;
+  background-color: rgb(161, 70, 161);
 }
 
-main {
+.container {
   display: inline-block;
   width: 800px;
   margin-top: 100px;
   margin-left: calc(50% - 400px);
 }
 
-main > div:first-child {
+.left-column {
   display: inline-block;
   width: 40%;
   float: left;
   padding: 40px;
-  background-color: chocolate;
+  margin-top: 20px;
+  background-color: rgb(75, 29, 226);
 }
-main > div:last-child {
+.right-column {
   display: inline-block;
   padding: 60px;
   width: 60%;
