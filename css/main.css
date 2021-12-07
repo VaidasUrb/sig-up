@@ -28,7 +28,10 @@ body {
 }
 
 .main-title {
-  color: #fff;
+  display: inline-block;
+  width: 100%;
+  font-size: 32px;
+  font-weight: normal;
 }
 
 .bottom-links {
@@ -38,23 +41,19 @@ body {
 
 .bottom-links > link {
   background-color: #fff;
-  display: inline-block;
-  width: 100%;
+  font-size: 14px;
 }
 .bottom-links > .symbol {
-  color: #fff;
 }
+
 .right-column {
-  display: inline-block;
   padding: 60px;
   width: 60%;
   float: left;
-  margin-top: 20px;
   background-color: #fff;
 }
 
 .close {
   color: black;
   display: inline-block;
-  width: 100%;
 }
