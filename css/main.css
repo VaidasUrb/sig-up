@@ -51,11 +51,12 @@ body {
   right: 40px;
 }
 
-.bottom-links > link {
-  background-color: #fff;
+.bottom-links > .link {
+  color: #fff;
   font-size: 14px;
 }
 .bottom-links > .symbol {
+  color: #fff;
 }
 
 .right-column {
