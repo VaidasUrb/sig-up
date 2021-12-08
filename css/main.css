@@ -54,6 +54,7 @@ body {
 .right-column {
   padding: 60px;
   width: 60%;
+  position: relative;
   float: left;
   background-color: #fff;
 }
@@ -61,4 +62,12 @@ body {
 .close {
   color: black;
   display: inline-block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 60px;
+  height: 60px;
+  font-size: 35px;
+  line-height: 54px;
+  text-align: center;
 }
