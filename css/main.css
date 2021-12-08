@@ -1,0 +1,64 @@
+body,
+body * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  vertical-align: top;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-color: rgb(161, 70, 161);
+}
+
+.container {
+  display: inline-block;
+  width: 800px;
+  margin-top: 100px;
+  margin-left: calc(50% - 400px);
+}
+
+.left-column {
+  display: inline-block;
+  width: 40%;
+  float: left;
+  padding: 40px;
+  margin-top: 20px;
+  background-color: rgb(75, 29, 226);
+  background-image: url(../img/hill.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+.main-title {
+  display: inline-block;
+  width: 100%;
+  font-size: 32px;
+  font-weight: normal;
+}
+
+.bottom-links {
+  display: inline-block;
+  width: 100%;
+}
+
+.bottom-links > link {
+  background-color: #fff;
+  font-size: 14px;
+}
+.bottom-links > .symbol {
+}
+
+.right-column {
+  padding: 60px;
+  width: 60%;
+  float: left;
+  background-color: #fff;
+}
+
+.close {
+  color: black;
+  display: inline-block;
+}
