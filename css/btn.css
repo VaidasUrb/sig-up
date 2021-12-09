@@ -5,7 +5,7 @@
   padding-left: 30px;
   padding-right: 30px;
   margin-bottom: 20px;
-  background-color: #0065db;
+  color: #fff;
   line-height: 20px;
   border: none;
   border-radius: 25px;
@@ -13,5 +13,10 @@
 }
 
 .btn {
-  background-color: rgb(84, 120, 230);
+  background: rgb(34, 75, 216);
+  background: linear-gradient(
+    352deg,
+    rgba(34, 75, 216, 1) 35%,
+    rgba(6, 97, 221, 1) 100%
+  );
 }
